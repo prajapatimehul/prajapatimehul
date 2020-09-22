@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**prajapatimehul/prajapatimehul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 MERN Stack Developer,playing with DevOps, enthusiastic learner, Warren buffet believer
 
@@ -13,5 +11,4 @@ MERN Stack Developer,playing with DevOps, enthusiastic learner, Warren buffet be
 - 📫 How to reach me: mehulprajapati85345@gmail.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: i love bodybuilding
--->
 
