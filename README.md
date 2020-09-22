@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-MERN Stack Developer,playing with DevOps, enthusiastic learner, Warren buffet believer
 
 - 🔭 I’m currently working as a MERN stack developer
 - 🌱 I’m currently learning DevOps
