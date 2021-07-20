@@ -2,10 +2,9 @@
 
 
 
-- 🔭 I’m currently working as a MERN stack developer
-- I am a Certified AWS developer -  Associate  
+- 🔭 I’m currently working as a AWS Certified Developer
 - 🌱 I’m Love Playing with DevOps
-- 👯 I’m looking to collaborate on Frontity
+- 👯 Looking For project of Cloud Setup 
 - 🤔 I’m looking for help with Cloudformation Stack
 - 💬 Ask me about JAMSTACK 
 - 📫 How to reach me: mehulprajapati85345@gmail.com
