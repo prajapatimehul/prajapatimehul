@@ -3,11 +3,11 @@
 
 
 - 🔭 I’m an AWS Certified Developer
-- 🌱 I’m Love Playing with DevOps
-- 👯 Looking For project of Server Setup
-- 🤔 I’m looking for help with Cloudformation Stack
-- 💬 Ask me about JAMSTACK 
-- 📫 How to reach me: mehulprajapati85345@gmail.com
-- 😄 Lets Talk about stock market!
-- ⚡ Fun fact: i love bodybuilding
+- 🌱 Love to play with Server
+- 👯 Looking For Project as DevOps Engineer
+- 🤔 Learning More of Docker and Kubernetes
+- 💬 Ask Me anything about AWS 
+- 📫 Reach Me at mehulprajapati85345@gmail.com
+- 😄 Lets Talk about Stock Market!
+- ⚡ Fun Fact: I Love Bodybuilding
 
