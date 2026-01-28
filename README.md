@@ -14,6 +14,9 @@
 
 Founder at [Eagerminds](https://eagerminds.in). Building AI-powered tools and automations. Deep into Claude Code plugins, MCP servers, and making AWS cost optimization less painful.
 
+![GitHub stars](https://img.shields.io/github/stars/prajapatimehul?style=social)
+![GitHub followers](https://img.shields.io/github/followers/prajapatimehul?style=social)
+
 ---
 
 ---
