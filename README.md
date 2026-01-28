@@ -44,9 +44,7 @@ Founder at [Eagerminds](https://eagerminds.in). Building AI-powered tools and au
 
 ### Web & Commerce
 - 🎬 **[theesim-ads](https://github.com/prajapatimehul/theesim-ads)** - Video ad generation with Veo 3.1 + FFmpeg post-production
-- 🔎 **[aiseekerz](https://github.com/prajapatimehul/aiseekerz)** - AI tools directory - discover latest AI applications worldwide
 - 🌐 **[prajapatimehul.github.io](https://github.com/prajapatimehul/prajapatimehul.github.io)** - Personal portfolio website (React)
-- 🍯 **[madhukamapiaries](https://github.com/prajapatimehul/madhukamapiaries)** - Honey business website
 
 ---
 
