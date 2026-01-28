@@ -16,12 +16,6 @@ Founder at [Eagerminds](https://eagerminds.in). Building AI-powered tools and au
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajapatimehul&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=prajapatimehul&theme=dark&hide_border=true)
-
 ---
 
 ## Current Projects
