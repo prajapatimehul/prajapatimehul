@@ -10,7 +10,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-DevOps Engineer at [Eagerminds](https://eagerminds.in). Building AI-powered tools and automations. Deep into Claude Code plugins, MCP servers, and making AWS cost optimization less painful.
+Founder at [Eagerminds](https://eagerminds.in). Building AI-powered tools and automations. Deep into Claude Code plugins, MCP servers, and making AWS cost optimization less painful.
 
 ---
 
