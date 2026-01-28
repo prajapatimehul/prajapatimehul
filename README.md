@@ -1,6 +1,6 @@
 # Hi, I'm Mehul 👋
 
-📍 Ahmedabad | ☁️ AWS Certified Developer | 🤖 AI Agent Builder | 🏋️ Bodybuilder
+📍 Ahmedabad | ☁️ AWS Certified Developer | 🤖 AI Agent Builder | 💪 Fitness Enthusiast
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
@@ -77,7 +77,7 @@ I build tools to solve my own problems - AWS costs too high? Build a scanner. Co
 
 ## Random Facts
 
-- 🏋️ Bodybuilder - gains in the gym, gains in the cloud
+- 💪 Fitness enthusiast - discipline in the gym, discipline in the code
 - 📈 Stock market enthusiast - let's talk trading strategies
 - ☁️ AWS certified and cloud-obsessed
 - 🤖 Currently deep in AI agent development with Claude Code
