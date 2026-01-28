@@ -2,6 +2,8 @@
 
 📍 Ahmedabad | ☁️ AWS Certified Developer | 🤖 AI Agent Builder | 🏋️ Bodybuilder
 
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
