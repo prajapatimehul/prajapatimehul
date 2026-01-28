@@ -19,7 +19,6 @@ Founder at [Eagerminds](https://eagerminds.in). Building AI-powered tools and au
 
 ---
 
----
 
 ## Current Projects
 
