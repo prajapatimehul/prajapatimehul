@@ -39,7 +39,6 @@ Founder at [Eagerminds](https://eagerminds.in). Building AI-powered tools and au
 - 🧪 **[aws-engineer-task](https://github.com/prajapatimehul/aws-engineer-task)** - AWS engineering tasks and challenges
 
 ### Web & Commerce
-- 🎬 **[theesim-ads](https://github.com/prajapatimehul/theesim-ads)** - Video ad generation with Veo 3.1 + FFmpeg post-production
 - 🌐 **[prajapatimehul.github.io](https://github.com/prajapatimehul/prajapatimehul.github.io)** - Personal portfolio website (React)
 
 ---
