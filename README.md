@@ -34,7 +34,6 @@ Founder at [Eagerminds](https://eagerminds.in). Building AI-powered tools and au
 [![X](https://img.shields.io/badge/@curiousmehul-000000?style=flat&logo=x&logoColor=white)](https://x.com/curiousmehul)
 [![Email](https://img.shields.io/badge/Email-mehulprajapati85345@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mehulprajapati85345@gmail.com)
 [![Website](https://img.shields.io/badge/Website-eagerminds.in-000000?style=flat&logo=safari&logoColor=white)](https://eagerminds.in)
-[![GitHub](https://img.shields.io/badge/GitHub-prajapatimehul-181717?style=flat&logo=github&logoColor=white)](https://github.com/prajapatimehul)
 
 ---
 
