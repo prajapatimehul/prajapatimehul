@@ -22,24 +22,10 @@ Founder at [Eagerminds](https://eagerminds.in). Building AI-powered tools and au
 
 ## Current Projects
 
-### AI & Agent Tools
 - 🔍 **[aws-cost-scanner](https://github.com/prajapatimehul/aws-cost-scanner)** - Claude Code plugin: 97 automated AWS cost optimization checks across 6 domains
 - 🛡️ **[comp-agent](https://github.com/prajapatimehul/comp-agent)** - SOC2/HIPAA compliance agent: Prowler + Claude Code
-- 📘 **[nextjs-claude-code-blueprint](https://github.com/prajapatimehul/nextjs-claude-code-blueprint)** - Claude Code setup for Next.js with PostgreSQL MCP, Context7, plugins & hooks
-- 📋 **[cursor-rules](https://github.com/prajapatimehul/cursor-rules)** - Cursor AI rules and configurations
-
-### Finance & Trading
-- 🧾 **[gst-invoice](https://github.com/prajapatimehul/gst-invoice)** - GST-compliant invoice generator for Upwork freelancers with automated PDF & exchange rates
-- 📈 **[Calendar-Spread-Trading-Strategy-agent](https://github.com/prajapatimehul/Calendar-Spread-Trading-Strategy-agent)** - Automated calendar spread trading strategy
-
-### Infrastructure & DevOps
 - 🏗️ **[soc2-hipaa-aws-infra](https://github.com/prajapatimehul/soc2-hipaa-aws-infra)** - SOC2 & HIPAA compliant AWS infrastructure with Terraform
-- 🔄 **[dynamosync](https://github.com/prajapatimehul/dynamosync)** - DynamoDB sync utilities
-- 📦 **[sam-app](https://github.com/prajapatimehul/sam-app)** - AWS SAM applications
-- 🧪 **[aws-engineer-task](https://github.com/prajapatimehul/aws-engineer-task)** - AWS engineering tasks and challenges
-
-### Web & Commerce
-- 🌐 **[prajapatimehul.github.io](https://github.com/prajapatimehul/prajapatimehul.github.io)** - Personal portfolio website (React)
+- 🧾 **[gst-invoice](https://github.com/prajapatimehul/gst-invoice)** - GST-compliant invoice generator for Upwork freelancers with automated PDF & exchange rates
 
 ---
 
