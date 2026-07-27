@@ -29,16 +29,6 @@ Founder at [Eagerminds](https://eagerminds.in). Building AI-powered tools and au
 
 ---
 
-## What I'm Doing
-
-- **Building AI agents** - Claude Code plugins, MCP servers, and agentic workflows
-- **AWS cost optimization** - Helping teams cut cloud spend with automated scanning
-- **Compliance automation** - Making SOC2/HIPAA less painful with Prowler + AI
-- **Trading systems** - Algorithmic trading strategies and automation
-- **DevOps consulting** - Infrastructure as code, CI/CD, container orchestration
-
----
-
 ## Connect
 
 [![X](https://img.shields.io/badge/@curiousmehul-000000?style=flat&logo=x&logoColor=white)](https://x.com/curiousmehul)
